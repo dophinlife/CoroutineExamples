@@ -15,3 +15,5 @@
 **Example32**: Fan-out
 
 **Example33**: Fan-in
+
+**Example34**: Ticker channels
