@@ -17,3 +17,7 @@
 **Example33**: Fan-in
 
 **Example34**: Ticker channels
+
+**Example37**: Actors
+
+**Example37**: Select
